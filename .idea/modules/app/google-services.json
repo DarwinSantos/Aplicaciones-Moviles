@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975831141110",
+    "firebase_url": "https://fir-app-e9d61.firebaseio.com",
+    "project_id": "fir-app-e9d61",
+    "storage_bucket": "fir-app-e9d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975831141110:android:6e48327e444d078d8b7ad7",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975831141110-pidmp9ngs9ppu4mmpvtascc0l6gj7q4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.tecsup.firebaseapp",
+            "certificate_hash": "d062668e36fefdcff12b8e80cb31af0880ffb5b1"
+          }
+        },
+        {
+          "client_id": "975831141110-8kkigb18hvuhcveq59eblubvgb080abo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlXkTaRIbmTakUGuwEyGkp1K1mXh93no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975831141110-8kkigb18hvuhcveq59eblubvgb080abo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
